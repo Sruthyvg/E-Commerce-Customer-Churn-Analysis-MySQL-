@@ -1,4 +1,4 @@
-# E-Commerce-Customer-Churn-Analysis-MySQL-
+# E-Commerce-Customer-Churn-Analysis-MySQL
 This project analyzes e-commerce customer data using MySQL to identify churn patterns and key factors affecting customer retention. The insights help drive data-driven decisions for improving customer loyalty.
 Project Overview
 Goal: Identify customer churn patterns and the main drivers of churn in an e-commerce setting using SQL-based analysis.
